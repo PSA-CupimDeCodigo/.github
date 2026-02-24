@@ -10,7 +10,7 @@ R:um jogo em formato de quiz, podendo envolver vários temas como ciência, hist
 Relevância: Que problema real resolve? Há complexidade suficiente para toda a equipe?
 R:A problematização foi citada acima. Sim, há complexibilidade o suficiente para toda a equipe, pois teremos testar várias modelos de linguagens, IAs, analisar possibilidade de geração de imagens, entre outros problemas
 Abordagem de Construção (como será desenvolvido sem improviso?)
-R:Não haverá improviso, prometo.
+R:Não haverá improviso, pois todos os membros terão seu desenvolvimento em cima dos materiais de estudos fornecidos.
 
 2. EQUIPE
 Quem faz o quê?
